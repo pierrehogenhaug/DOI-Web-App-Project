@@ -1,6 +1,8 @@
 # DOI-Web-App-Project
 Champions League App is a Web App project that allows the user to browse data from the 2020/2021 Champions League tournament.
 
+The project was developped by Pierre Høgenhaug, Thomas Frost Jørgensen & Wino Rajkumar.
+
 ## Installation
 - On Github click "Code" and copy the "HTTPS" link.
 - On your computer open you terminal and navigate to a local folder that you want to place the repo at.
