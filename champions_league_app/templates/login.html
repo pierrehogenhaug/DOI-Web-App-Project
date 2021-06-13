@@ -1,0 +1,48 @@
+{% block title %}Login Page{% endblock %}
+
+<!DOCTYPE html>
+
+<html>
+  <style> 
+  body {
+  background-color: #cccccc;
+  }
+  h1 {
+	  text-align: center;
+  }
+ 
+  </style>
+  <body>
+    <header>
+      <div class="centered">
+        <h1 class="logo">TEAMS</h1>
+		<ol>
+			<!-- For loop logic of jinja template -->
+			{%for i in range(0, length)%}
+			  
+        <li>{{table[i][0]}}</li>
+			{%endfor%}
+			  
+			</ol>
+      </div>
+    </header>
+    <div class="centered">
+		{% block content %}
+
+		<form action="#" method="post">
+			<p>Team (or 'all') :</p>
+			<p><input type="text" name="team" /></p>
+			<p>Result ('Win','Loss','Draw','All') :</p>
+			<p> (If all teams are selected, 'Draw' returns draws and 'Win'/'Loss' returns the opposite):</p>
+			<p><input type="text" name="result" /></p>
+			<p> Team scored more than x goals (number):</p>
+			<p> (If all teams are selected: more than x goals scored by both teams):</p>
+			<p><input type="text" name="goals" /></p>
+			<p><input type="submit" value="submit"/></p>
+		</form>
+		{% endblock %}
+    </div>
+  </body>
+</html>
+
+

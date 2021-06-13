@@ -1,0 +1,178 @@
+MATCHID,MATCHDATE,COUNTRY,LEAGUE,SEASON,HOME_TEAM,AWAY_TEAM,FTR,FTHG,FTAG,A_COR,H_COR,A_FL,H_FL,A_RC,H_RC
+0,2020-08-08,Europe,Champions League,2020/2021,Tre Fiori,Linfield,A,0,2,0,0,SNV,SNV,0,0
+1,2020-08-08,Europe,Champions League,2020/2021,Drita,Inter Club d'Escaldes,H,2,1,0,0,SNV,SNV,0,0
+2,2020-08-18,Europe,Champions League,2020/2021,Celtic,KR,H,6,0,2,9,9,5,0,0
+3,2020-08-18,Europe,Champions League,2020/2021,Dinamo Brest,Astana,H,6,3,10,3,9,6,0,0
+4,2020-08-18,Europe,Champions League,2020/2021,Crvena Zvezda,Europa FC,H,5,0,0,6,8,11,0,0
+5,2020-08-18,Europe,Champions League,2020/2021,Legia Warszawa,Linfield,H,1,0,1,9,12,16,1,0
+6,2020-08-18,Europe,Champions League,2020/2021,Qarabag,Sileks,H,4,0,2,7,13,19,0,0
+7,2020-08-19,Europe,Champions League,2020/2021,Dinamo Tbilisi,Tirana,A,0,2,2,10,SNV,SNV,0,0
+8,2020-08-19,Europe,Champions League,2020/2021,Ararat-Armenia,Omonia Nicosia,A,0,1,6,4,25,28,0,1
+9,2020-08-19,Europe,Champions League,2020/2021,Celje,Dundalk,H,3,0,3,4,8,16,0,0
+10,2020-08-19,Europe,Champions League,2020/2021,Sheriff,Fola Esch,H,2,0,4,6,14,10,0,0
+11,2020-08-19,Europe,Champions League,2020/2021,Ferencvarosi,Djurgarden,H,2,0,3,2,SNV,SNV,0,0
+12,2020-08-19,Europe,Champions League,2020/2021,Buducnost ,Ludogorets,A,1,3,2,5,22,22,0,0
+13,2020-08-19,Europe,Champions League,2020/2021,Floriana,CFR Cluj,A,0,2,5,3,SNV,SNV,0,0
+14,2020-08-19,Europe,Champions League,2020/2021,Molde,KuPS,H,5,0,3,7,SNV,SNV,0,0
+15,2020-08-19,Europe,Champions League,2020/2021,Flora,Suduva,D,1,1,3,5,16,10,0,0
+16,2020-08-19,Europe,Champions League,2020/2021,Maccabi Tel Aviv,Riga,H,2,0,5,4,SNV,SNV,0,0
+17,2020-08-19,Europe,Champions League,2020/2021,Connah's Quay,Sarajevo,A,0,2,3,2,15,14,0,0
+18,2020-08-21,Europe,Champions League,2020/2021,KI,Slovan Bratislava,H,3,0,SNV,SNV,SNV,SNV,SNV,SNV
+19,2020-08-25,Europe,Champions League,2020/2021,PAOK,Besiktas,H,3,1,8,1,14,27,0,0
+20,2020-08-25,Europe,Champions League,2020/2021,Tirana,Crvena Zvezda,A,0,1,12,1,21,18,0,0
+21,2020-08-26,Europe,Champions League,2020/2021,Lokomotiva Zagreb,Rapid Vienna,A,0,1,7,1,0,0,0,0
+22,2020-08-26,Europe,Champions League,2020/2021,Celje,Molde,A,1,2,4,4,SNV,SNV,0,0
+23,2020-08-26,Europe,Champions League,2020/2021,Qarabag,Sheriff,H,2,1,3,5,13,11,1,0
+24,2020-08-26,Europe,Champions League,2020/2021,AZ Alkmaar,Viktoria,H,3,1,6,7,17,22,0,0
+25,2020-08-26,Europe,Champions League,2020/2021,Suduva,Maccabi Tel Aviv,A,0,3,1,0,10,15,0,0
+26,2020-08-26,Europe,Champions League,2020/2021,Celtic,Ferencvarosi,A,1,2,1,7,11,14,0,0
+27,2020-08-26,Europe,Champions League,2020/2021,Young Boys,KI,H,3,1,1,1,15,13,0,0
+28,2020-08-26,Europe,Champions League,2020/2021,Ludogorets,Midtjylland,A,0,1,7,2,19,14,0,0
+29,2020-08-26,Europe,Champions League,2020/2021,Dinamo Brest,Sarajevo,H,2,1,8,4,17,11,0,0
+30,2020-08-26,Europe,Champions League,2020/2021,Legia Warszawa,Omonia Nicosia,A,0,2,9,4,22,20,0,1
+31,2020-08-26,Europe,Champions League,2020/2021,CFR Cluj,Dinamo Zagreb,D,2,2,5,10,16,17,1,0
+32,2020-09-15,Europe,Champions League,2020/2021,PAOK,Benfica,H,2,1,10,2,15,13,0,0
+33,2020-09-15,Europe,Champions League,2020/2021,Dynamo Kyiv,AZ Alkmaar,H,2,0,1,1,18,13,0,0
+34,2020-09-15,Europe,Champions League,2020/2021,Gent,Rapid Vienna,H,2,1,4,1,15,15,0,0
+35,2020-09-16,Europe,Champions League,2020/2021,Omonia Nicosia,Crvena Zvezda,D,1,1,10,7,SNV,SNV,0,0
+36,2020-09-16,Europe,Champions League,2020/2021,Qarabag,Molde,D,0,0,2,4,17,15,0,0
+37,2020-09-16,Europe,Champions League,2020/2021,Midtjylland,Young Boys,H,3,0,4,3,14,14,0,0
+38,2020-09-16,Europe,Champions League,2020/2021,Ferencvarosi,Dinamo Zagreb,H,2,1,8,5,12,17,0,0
+39,2020-09-16,Europe,Champions League,2020/2021,Maccabi Tel Aviv,Dinamo Brest,H,1,0,5,8,13,13,0,0
+40,2020-09-22,Europe,Champions League,2020/2021,Maccabi Tel Aviv,Salzburg,A,1,2,7,2,18,10,0,0
+41,2020-09-22,Europe,Champions League,2020/2021,Slavia Praha,Midtjylland,D,0,0,2,8,16,13,0,0
+42,2020-09-22,Europe,Champions League,2020/2021,Krasnodar,PAOK,H,2,1,7,4,17,14,0,0
+43,2020-09-23,Europe,Champions League,2020/2021,Olympiakos Piraeus,Omonia Nicosia,H,2,0,3,6,12,13,0,0
+44,2020-09-23,Europe,Champions League,2020/2021,Molde,Ferencvarosi,D,3,3,1,11,14,10,0,0
+45,2020-09-23,Europe,Champions League,2020/2021,Gent,Dynamo Kyiv,A,1,2,7,2,14,10,0,1
+46,2020-09-29,Europe,Champions League,2020/2021,Omonia Nicosia,Olympiakos Piraeus,D,0,0,7,8,0,0,0,0
+47,2020-09-29,Europe,Champions League,2020/2021,Ferencvarosi,Molde,D,0,0,6,1,0,0,0,0
+48,2020-09-29,Europe,Champions League,2020/2021,Dynamo Kyiv,Gent,H,3,0,9,3,11,5,0,0
+49,2020-09-30,Europe,Champions League,2020/2021,PAOK,Krasnodar,A,1,2,3,10,12,12,0,0
+50,2020-09-30,Europe,Champions League,2020/2021,Midtjylland,Slavia Praha,H,4,1,6,6,16,6,0,0
+51,2020-09-30,Europe,Champions League,2020/2021,Salzburg,Maccabi Tel Aviv,H,3,1,3,3,7,10,0,0
+52,2020-10-20,Europe,Champions League,2020/2021,Paris Saint Germain,Manchester United,A,1,2,8,11,15,8,0,0
+53,2020-10-20,Europe,Champions League,2020/2021,Rennes,Krasnodar,D,1,1,2,3,7,22,0,0
+54,2020-10-20,Europe,Champions League,2020/2021,Zenit,Club Brugge,A,1,2,4,8,9,13,0,0
+55,2020-10-20,Europe,Champions League,2020/2021,Dynamo Kyiv,Juventus,A,0,2,5,2,12,13,0,0
+56,2020-10-20,Europe,Champions League,2020/2021,Barcelona,Ferencvarosi,H,5,1,0,5,15,7,0,1
+57,2020-10-20,Europe,Champions League,2020/2021,Chelsea,Sevilla,D,0,0,5,2,8,14,0,0
+58,2020-10-20,Europe,Champions League,2020/2021,RB Leipzig,Istanbul Basaksehir,H,2,0,2,3,14,18,0,0
+59,2020-10-20,Europe,Champions League,2020/2021,Lazio,Borussia Dortmund,H,3,1,6,7,8,6,0,0
+60,2020-10-21,Europe,Champions League,2020/2021,Inter,Borussia M'gladbach,D,2,2,2,3,12,15,0,0
+61,2020-10-21,Europe,Champions League,2020/2021,Olympiakos Piraeus,Olympique Marseille,H,1,0,3,2,10,12,0,0
+62,2020-10-21,Europe,Champions League,2020/2021,Manchester City,Porto,H,3,1,1,4,2,11,0,0
+63,2020-10-21,Europe,Champions League,2020/2021,Salzburg,Lokomotiv Moskva,D,2,2,3,8,15,18,0,0
+64,2020-10-21,Europe,Champions League,2020/2021,Midtjylland,Atalanta,A,0,4,5,4,13,10,0,0
+65,2020-10-21,Europe,Champions League,2020/2021,Ajax,Liverpool,A,0,1,9,3,9,10,0,0
+66,2020-10-21,Europe,Champions League,2020/2021,Real Madrid,Shakhtar Donetsk,A,2,3,1,7,8,11,0,0
+67,2020-10-21,Europe,Champions League,2020/2021,Bayern Munchen,Atletico Madrid,H,4,0,7,6,12,8,0,0
+68,2020-10-27,Europe,Champions League,2020/2021,Porto,Olympiakos Piraeus,H,2,0,9,4,17,13,0,0
+69,2020-10-27,Europe,Champions League,2020/2021,Lokomotiv Moskva,Bayern Munchen,A,1,2,4,4,16,11,0,0
+70,2020-10-27,Europe,Champions League,2020/2021,Atalanta,Ajax,D,2,2,6,7,16,12,0,0
+71,2020-10-27,Europe,Champions League,2020/2021,Olympique Marseille,Manchester City,A,0,3,5,1,1,0,0,0
+72,2020-10-27,Europe,Champions League,2020/2021,Atletico Madrid,Salzburg,H,3,2,5,9,14,15,0,0
+73,2020-10-27,Europe,Champions League,2020/2021,Borussia M'gladbach,Real Madrid,D,2,2,8,1,7,20,0,0
+74,2020-10-27,Europe,Champions League,2020/2021,Shakhtar Donetsk,Inter,D,0,0,6,2,17,5,0,0
+75,2020-10-27,Europe,Champions League,2020/2021,Liverpool,Midtjylland,H,2,0,2,3,11,11,0,0
+76,2020-10-28,Europe,Champions League,2020/2021,Manchester United,RB Leipzig,H,5,0,5,2,20,18,0,0
+77,2020-10-28,Europe,Champions League,2020/2021,Borussia Dortmund,Zenit,H,2,0,1,8,7,7,0,0
+78,2020-10-28,Europe,Champions League,2020/2021,Istanbul Basaksehir,Paris Saint Germain,A,0,2,5,6,6,11,0,0
+79,2020-10-28,Europe,Champions League,2020/2021,Ferencvarosi,Dynamo Kyiv,D,2,2,3,5,11,14,1,0
+80,2020-10-28,Europe,Champions League,2020/2021,Sevilla,Rennes,H,1,0,0,11,19,15,0,0
+81,2020-10-28,Europe,Champions League,2020/2021,Juventus,Barcelona,A,0,2,4,1,16,19,0,1
+82,2020-10-28,Europe,Champions League,2020/2021,Club Brugge,Lazio,D,1,1,2,7,13,18,0,0
+83,2020-10-28,Europe,Champions League,2020/2021,Krasnodar,Chelsea,A,0,4,4,6,12,12,0,0
+84,2020-11-03,Europe,Champions League,2020/2021,Shakhtar Donetsk,Borussia M'gladbach,A,0,6,6,3,15,7,0,0
+85,2020-11-03,Europe,Champions League,2020/2021,Manchester City,Olympiakos Piraeus,H,3,0,2,7,7,9,0,0
+86,2020-11-03,Europe,Champions League,2020/2021,Real Madrid,Inter,H,3,2,2,6,14,13,0,0
+87,2020-11-03,Europe,Champions League,2020/2021,Salzburg,Bayern Munchen,A,2,6,3,10,13,13,0,0
+88,2020-11-03,Europe,Champions League,2020/2021,Lokomotiv Moskva,Atletico Madrid,D,1,1,10,1,8,12,0,0
+89,2020-11-03,Europe,Champions League,2020/2021,Midtjylland,Ajax,A,1,2,3,3,20,19,0,0
+90,2020-11-03,Europe,Champions League,2020/2021,Porto,Olympique Marseille,H,3,0,6,3,19,14,0,0
+91,2020-11-03,Europe,Champions League,2020/2021,Atalanta,Liverpool,A,0,5,7,6,16,6,0,0
+92,2020-11-04,Europe,Champions League,2020/2021,Sevilla,Krasnodar,H,3,2,4,6,13,12,0,1
+93,2020-11-04,Europe,Champions League,2020/2021,Ferencvarosi,Juventus,A,1,4,1,2,11,8,0,0
+94,2020-11-04,Europe,Champions League,2020/2021,Barcelona,Dynamo Kyiv,H,2,1,8,10,4,11,0,0
+95,2020-11-04,Europe,Champions League,2020/2021,Chelsea,Rennes,H,3,0,3,2,8,13,1,0
+96,2020-11-04,Europe,Champions League,2020/2021,Zenit,Lazio,D,1,1,3,3,9,16,0,0
+97,2020-11-04,Europe,Champions League,2020/2021,Istanbul Basaksehir,Manchester United,H,2,1,5,1,9,9,0,0
+98,2020-11-04,Europe,Champions League,2020/2021,RB Leipzig,Paris Saint Germain,H,2,1,3,4,20,20,2,0
+99,2020-11-04,Europe,Champions League,2020/2021,Club Brugge,Borussia Dortmund,A,0,3,3,3,7,12,0,0
+100,2020-11-24,Europe,Champions League,2020/2021,Manchester United,Istanbul Basaksehir,H,4,1,2,6,13,14,0,0
+101,2020-11-24,Europe,Champions League,2020/2021,Rennes,Chelsea,A,1,2,3,11,9,13,0,0
+102,2020-11-24,Europe,Champions League,2020/2021,Lazio,Zenit,H,3,1,2,6,12,9,0,0
+103,2020-11-24,Europe,Champions League,2020/2021,Borussia Dortmund,Club Brugge,H,3,0,0,9,12,11,0,0
+104,2020-11-24,Europe,Champions League,2020/2021,Juventus,Ferencvarosi,H,2,1,6,6,11,17,0,0
+105,2020-11-24,Europe,Champions League,2020/2021,Paris Saint Germain,RB Leipzig,H,1,0,6,2,19,15,0,0
+106,2020-11-24,Europe,Champions League,2020/2021,Dynamo Kyiv,Barcelona,A,0,4,6,2,6,11,0,0
+107,2020-11-24,Europe,Champions League,2020/2021,Krasnodar,Sevilla,A,1,2,3,1,12,14,0,0
+108,2020-11-25,Europe,Champions League,2020/2021,Olympique Marseille,Porto,A,0,2,2,3,14,19,1,1
+109,2020-11-25,Europe,Champions League,2020/2021,Liverpool,Atalanta,A,0,2,2,2,15,12,0,0
+110,2020-11-25,Europe,Champions League,2020/2021,Olympiakos Piraeus,Manchester City,A,0,1,4,0,8,10,0,0
+111,2020-11-25,Europe,Champions League,2020/2021,Atletico Madrid,Lokomotiv Moskva,D,0,0,1,16,8,20,0,0
+112,2020-11-25,Europe,Champions League,2020/2021,Borussia M'gladbach,Shakhtar Donetsk,H,4,0,5,4,13,14,0,0
+113,2020-11-25,Europe,Champions League,2020/2021,Inter,Real Madrid,A,0,2,6,2,10,7,0,1
+114,2020-11-25,Europe,Champions League,2020/2021,Bayern Munchen,Salzburg,H,3,1,5,5,18,14,0,1
+115,2020-11-25,Europe,Champions League,2020/2021,Ajax,Midtjylland,H,3,1,1,8,13,14,1,0
+116,2020-12-01,Europe,Champions League,2020/2021,Borussia M'gladbach,Inter,A,2,3,5,3,13,14,0,0
+117,2020-12-01,Europe,Champions League,2020/2021,Olympique Marseille,Olympiakos Piraeus,H,2,1,3,6,14,11,0,0
+118,2020-12-01,Europe,Champions League,2020/2021,Porto,Manchester City,D,0,0,11,0,13,10,0,0
+119,2020-12-01,Europe,Champions League,2020/2021,Atletico Madrid,Bayern Munchen,D,1,1,4,3,12,6,0,0
+120,2020-12-01,Europe,Champions League,2020/2021,Liverpool,Ajax,H,1,0,6,1,9,15,0,0
+121,2020-12-01,Europe,Champions League,2020/2021,Atalanta,Midtjylland,D,1,1,2,4,17,13,0,0
+122,2020-12-01,Europe,Champions League,2020/2021,Lokomotiv Moskva,Salzburg,A,1,3,8,6,17,11,0,0
+123,2020-12-01,Europe,Champions League,2020/2021,Shakhtar Donetsk,Real Madrid,H,2,0,11,2,15,10,0,0
+124,2020-12-02,Europe,Champions League,2020/2021,Ferencvarosi,Barcelona,A,0,3,0,5,14,10,0,0
+125,2020-12-02,Europe,Champions League,2020/2021,Krasnodar,Rennes,H,1,0,7,10,22,11,0,0
+126,2020-12-02,Europe,Champions League,2020/2021,Borussia Dortmund,Lazio,D,1,1,6,1,7,8,0,0
+127,2020-12-02,Europe,Champions League,2020/2021,Club Brugge,Zenit,H,3,0,3,6,11,10,0,0
+128,2020-12-02,Europe,Champions League,2020/2021,Juventus,Dynamo Kyiv,H,3,0,5,8,12,8,0,0
+129,2020-12-02,Europe,Champions League,2020/2021,Sevilla,Chelsea,A,0,4,7,3,15,10,0,0
+130,2020-12-02,Europe,Champions League,2020/2021,Istanbul Basaksehir,RB Leipzig,A,3,4,6,4,15,9,0,0
+131,2020-12-02,Europe,Champions League,2020/2021,Manchester United,Paris Saint Germain,A,1,3,5,3,10,20,0,1
+132,2020-12-08,Europe,Champions League,2020/2021,Barcelona,Juventus,A,0,3,1,5,15,10,0,0
+133,2020-12-08,Europe,Champions League,2020/2021,Zenit,Borussia Dortmund,A,1,2,8,6,15,7,0,0
+134,2020-12-08,Europe,Champions League,2020/2021,RB Leipzig,Manchester United,H,3,2,10,4,8,18,0,0
+135,2020-12-08,Europe,Champions League,2020/2021,Dynamo Kyiv,Ferencvarosi,H,1,0,5,2,18,15,0,0
+136,2020-12-08,Europe,Champions League,2020/2021,Lazio,Club Brugge,D,2,2,4,2,15,11,1,0
+137,2020-12-08,Europe,Champions League,2020/2021,Rennes,Sevilla,A,1,3,2,10,8,19,0,0
+138,2020-12-08,Europe,Champions League,2020/2021,Chelsea,Krasnodar,D,1,1,2,6,10,20,0,0
+139,2020-12-09,Europe,Champions League,2020/2021,Ajax,Atalanta,A,0,1,4,6,15,19,0,1
+140,2020-12-09,Europe,Champions League,2020/2021,Salzburg,Atletico Madrid,A,0,2,2,7,11,14,0,0
+141,2020-12-09,Europe,Champions League,2020/2021,Paris Saint Germain,Istanbul Basaksehir,H,5,1,6,5,12,4,0,0
+142,2020-12-09,Europe,Champions League,2020/2021,Olympiakos Piraeus,Porto,A,0,2,4,4,18,12,0,1
+143,2020-12-09,Europe,Champions League,2020/2021,Bayern Munchen,Lokomotiv Moskva,H,2,0,2,7,12,14,0,0
+144,2020-12-09,Europe,Champions League,2020/2021,Manchester City,Olympique Marseille,H,3,0,3,6,8,9,0,0
+145,2020-12-09,Europe,Champions League,2020/2021,Inter,Shakhtar Donetsk,D,0,0,0,13,8,13,0,0
+146,2020-12-09,Europe,Champions League,2020/2021,Real Madrid,Borussia M'gladbach,H,2,0,1,6,15,9,0,0
+147,2020-12-09,Europe,Champions League,2020/2021,Midtjylland,Liverpool,D,1,1,3,9,11,7,0,0
+148,2021-02-16,Europe,Champions League,2020/2021,Barcelona,Paris Saint Germain,A,1,4,7,4,16,11,0,0
+149,2021-02-16,Europe,Champions League,2020/2021,RB Leipzig,Liverpool,A,0,2,2,4,11,12,0,0
+150,2021-02-17,Europe,Champions League,2020/2021,Sevilla,Borussia Dortmund,A,2,3,3,6,12,8,0,0
+151,2021-02-17,Europe,Champions League,2020/2021,Porto,Juventus,H,2,1,6,6,13,14,0,0
+152,2021-02-23,Europe,Champions League,2020/2021,Lazio,Bayern Munchen,A,1,4,4,7,12,11,0,0
+153,2021-02-23,Europe,Champions League,2020/2021,Atletico Madrid,Chelsea,A,0,1,6,5,17,9,0,0
+154,2021-02-24,Europe,Champions League,2020/2021,Atalanta,Real Madrid,A,0,1,7,1,13,8,0,1
+155,2021-02-24,Europe,Champions League,2020/2021,Borussia M'gladbach,Manchester City,A,0,2,1,0,4,7,0,0
+156,2021-03-09,Europe,Champions League,2020/2021,Borussia Dortmund,Sevilla,D,2,2,8,1,15,14,0,0
+157,2021-03-09,Europe,Champions League,2020/2021,Juventus,Porto,H,3,2,2,19,17,21,1,0
+158,2021-03-10,Europe,Champions League,2020/2021,Paris Saint Germain,Barcelona,D,1,1,9,2,8,10,0,0
+159,2021-03-10,Europe,Champions League,2020/2021,Liverpool,RB Leipzig,H,2,0,1,5,7,19,0,0
+160,2021-03-16,Europe,Champions League,2020/2021,Manchester City,Borussia M'gladbach,H,2,0,2,7,9,4,0,0
+161,2021-03-16,Europe,Champions League,2020/2021,Real Madrid,Atalanta,H,3,1,5,0,13,14,0,0
+162,2021-03-17,Europe,Champions League,2020/2021,Chelsea,Atletico Madrid,H,2,0,5,6,11,11,1,0
+163,2021-03-17,Europe,Champions League,2020/2021,Bayern Munchen,Lazio,H,2,1,1,4,7,11,0,0
+164,2021-04-06,Europe,Champions League,2020/2021,Manchester City,Borussia Dortmund,H,2,1,2,4,7,7,0,0
+165,2021-04-06,Europe,Champions League,2020/2021,Real Madrid,Liverpool,H,3,1,3,5,11,7,0,0
+166,2021-04-07,Europe,Champions League,2020/2021,Bayern Munchen,Paris Saint Germain,A,2,3,1,15,7,14,0,0
+167,2021-04-07,Europe,Champions League,2020/2021,Porto,Chelsea,A,0,2,4,9,16,11,0,0
+168,2021-04-13,Europe,Champions League,2020/2021,Chelsea,Porto,A,0,1,9,6,19,17,0,0
+169,2021-04-13,Europe,Champions League,2020/2021,Paris Saint Germain,Bayern Munchen,A,0,1,7,6,22,9,0,0
+170,2021-04-14,Europe,Champions League,2020/2021,Liverpool,Real Madrid,D,0,0,3,11,5,9,0,0
+171,2021-04-14,Europe,Champions League,2020/2021,Borussia Dortmund,Manchester City,A,1,2,11,2,3,8,0,0
+172,2021-04-27,Europe,Champions League,2020/2021,Real Madrid,Chelsea,D,1,1,6,4,9,11,0,0
+173,2021-04-28,Europe,Champions League,2020/2021,Paris Saint Germain,Manchester City,A,1,2,4,6,15,10,0,1
+174,2021-05-04,Europe,Champions League,2020/2021,Manchester City,Paris Saint Germain,H,2,0,6,6,13,16,1,0
+175,2021-05-05,Europe,Champions League,2020/2021,Chelsea,Real Madrid,H,2,0,3,1,12,18,0,0
+176,2021-05-29,Europe,Champions League,2020/2021,Manchester City,Chelsea,A,0,1,1,3,13,14,0,0

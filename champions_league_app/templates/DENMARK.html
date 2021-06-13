@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+
+<html>
+  <style> 
+  body {
+  background-color: #cccccc;
+  }
+  h1 {
+	  text-align: center;
+  }
+ 
+  </style>
+  <body>
+    <header>
+      <div class="centered">
+        <h1 class="logo">{{team}}</h1>
+		<ol>
+			<!-- For loop logic of jinja template -->
+			{%for i in range(0, length)%}
+			  
+        <li>{{all_data[i]}}</li>
+			{%endfor%}
+			  
+      </ol>
+      </div>
+    </header>
+    <div class="centered">
+      {% block content %}
+      {% endblock %}
+    </div>
+  </body>
+</html>
