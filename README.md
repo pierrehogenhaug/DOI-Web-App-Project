@@ -16,3 +16,21 @@ All participating teams are visible on the front page.
 - In the last request bar choose a minimum number of goals scored and the web-app will filter away all matches with goals less than the inputted number. 
 
 
+## Variables
+- MATCHID: Specific Match ID
+- DATE: Specific Match
+- COUNTRY: Continent
+- LEAGUE: Champions League
+- SEASON: Season
+- HOME TEAM: Home Team of specific game
+- AWAY TEAM: Away Team of specific game
+- Result: Result of specific game
+- Home Goals: Goals scored by home team
+- Away Goals: Goals scored by away team
+- A_COR: Corners for Away team
+- H_COR: Corners for Home team
+- A_FL: Fouls by Away team
+- H_FL: Fouls by Home team
+- A_RC: Red cards for Away team
+- H_RC: Red cards for Home team
+- Goals: Goals Scored
