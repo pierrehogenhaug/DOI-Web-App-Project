@@ -12,6 +12,8 @@ In the terminal run: python website.py
 Copy the url displayed in the terminal at "Running on"
 
 All participating teams are visible on the front page. 
-In the first request bar choose between writing "All" to display all teams or a specific team name to display data from that specific team.
-In the second request bar choose between writing 'Win','Loss','Draw','All' to filter the results. 
-In the last request bar choose a minimum number of goals scored and the web-app will filter away all matches with goals less than the inputted number. 
+- In the first request bar choose between writing "All" to display all teams or a specific team name to display data from that specific team.
+- In the second request bar choose between writing 'Win','Loss','Draw','All' to filter the results. 
+- In the last request bar choose a minimum number of goals scored and the web-app will filter away all matches with goals less than the inputted number. 
+
+
