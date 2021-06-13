@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+
+<html>
+  <style> 
+  
+  h1 {
+	  text-align: center;
+  }
+  table, th , td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+  </style>
+  <body style = background-color:powderblue>
+    <header>
+      <div class="centered">
+        <h1 class="logo">{{team}}</h1>
+
+      </div>
+    </header>
+	<table style='width:100%'>
+		<thead>
+		  <tr>
+			<th scope="col">MATCHID</th>
+			<th scope="col">DATE</th>
+			<th scope="col">COUNTRY</th>
+			<th scope="col">LEAGUE</th>
+			<th scope="col">SEASON</th>
+			<th scope="col">HOME TEAM</th>
+			<th scope="col">AWAY TEAM</th>
+			<th scope="col"> Result</th>
+			<th scope="col">Home Goals</th>
+			<th scope="col">Away Goals</th>
+			<th scope="col">A_COR</th>
+			<th scope="col">H_COR</th>
+			<th scope="col">A_FL</th>
+			<th scope="col">H_FL</th>
+			<th scope="col">A_RC</th>
+			<th scope="col">H_RC</th>
+			<th scope="col">Goals</th>
+		  </tr>
+		</thead>
+		  {% for i in range(0,length) %}
+		  <tr>
+		  <td>{{all_data[i][0] }}
+		  </td>
+		  <td>{{all_data[i][1]}}
+		</td>
+		<td>{{all_data[i][2]}}
+		</td>
+		<td>{{all_data[i][3]}}
+		</td>
+		<td>{{all_data[i][4]}}
+		</td>
+		<td>{{all_data[i][5]}}
+		</td>
+		<td>{{all_data[i][6]}}
+		</td>
+		<td>{{all_data[i][7]}}
+		</td>
+		<td>{{all_data[i][8]}}
+		</td>
+		<td>{{all_data[i][9]}}
+		</td>
+		<td>{{all_data[i][10]}}
+		</td>
+		<td>{{all_data[i][11]}}
+		</td>
+		<td>{{all_data[i][12]}}
+		</td>
+		<td>{{all_data[i][13]}}
+		</td>
+		<td>{{all_data[i][14]}}
+		</td>
+		<td>{{all_data[i][15]}}
+		</td>
+		<td>{{all_data[i][16]}}
+		</td>
+
+		  </tr>
+		  {% endfor %}
+	  </table>
+    <div class="centered">
+      {% block content %}
+      {% endblock %}
+    </div>
+  </body>
+</html>
